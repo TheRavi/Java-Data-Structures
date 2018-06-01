@@ -1,5 +1,6 @@
 /**
  * Program to Demonstrate Stack Class
+ * push(item), pop(), peek(), search(object), isEmpty()
  */
 package com.problems.stack;
 
